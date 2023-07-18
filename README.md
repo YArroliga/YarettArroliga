@@ -1,4 +1,4 @@
-<h1>My name is Yarett Arroliga, and I am an <a href="https://linkedin.com/in/Josh">IT Professional</a>>
+<h1>My name is Yarett Arroliga, and I am an <a href="https://linkedin.com/in/Josh">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
