@@ -1,4 +1,4 @@
-<h1>My name is Yarett Arroliga, and I am an <a href="https://linkedin.com/in/Josh">IT Professional</a>
+<h1>My name is Yarett Arroliga, and I am an <a href="https://www.linkedin.com/in/yarett-arroliga-948303284/">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -8,14 +8,12 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/YArroliga/Os-ticket-example)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/YArroliga/Active-DirectoryVM)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+  -
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/yarett-arroliga-948303284/
