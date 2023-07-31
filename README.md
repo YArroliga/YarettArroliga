@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/YArroliga/Os-ticket-example)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/YArroliga/Active-DirectoryVM)
-  -
+
 <h2>🤳Connect with me:</h2>
 
 
